@@ -18,6 +18,6 @@ A twitter like social microblogging platform based on Django and Django REST Fra
 - run by 'python3 manage.py runserver'
 - get it in local 'http://127.0.0.1:8000'
 
-##Demo
+## Demo
 ![](Demo/Demo.png)
 
