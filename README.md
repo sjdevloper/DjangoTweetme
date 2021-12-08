@@ -12,4 +12,12 @@ A twitter like social microblogging platform based on Django and Django REST Fra
 - Redirect all HTTP requests to HTTPS
 
 
-See the Heroku APP here : https://octrixtweetapp.herokuapp.com/
+## How to run
+- git clone to your local
+- install enviroment 
+- run by 'python3 manage.py runserver'
+- get it in local 'http://127.0.0.1:8000'
+
+##Demo
+![](Demo/Demo.png)
+
